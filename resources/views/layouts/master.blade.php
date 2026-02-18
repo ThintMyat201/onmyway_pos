@@ -29,9 +29,9 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion toggled" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="#">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{{ route('saleProductView') }}">
                 <div class="sidebar-brand-icon company-logo">
-                    <img src="{{ asset('images/OTW_Company_Logo.png') }}" style="width: 60px; height: 60px; object-fit: contain; border-radius: 50%;">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEU0lEQVR4nO2aeahVVRTGf74GK3NKLMX+UaEeqSW+pHJCokQh1KIIXgkiRvVQyMghLBVzDgtKTMuyVxYmBA2kUIo2EDQKzgppoUQ8HJrTcogF34bF4Xjvmd59V7gfbHj77X322d/ea39rrX0u1FBDDVlxKTAAaMhR+mR4b2egHQVhHPArcK6Ash3olfC91wG/AW8A9wLd8+6EkWgBlgNLcpS1ItOc4L2PA2cji7A6D5F6DbKMYvADsDOBOZ0CDgATgPtUeuR5cT8ReUb1acC3KcuXwGA9v0elFK7VO98FLsoz+VJE5mpV05S9wPAURAzb9N4/gcPAUqCuSCJ5kZRIJ2A+sFEmZnN4pEgilwAPAjMTlunAsAxEPLprDm8XSWRFBsk19RmZgkiddmO1ymcaZ0aRROzw/gLckbA06fknUxDpCvzuFuI/+ZLL1D4KWJWXyHfAoRTPN+j52Y7IMeDOMs/ZpLsBn8qUkYLN1fM25glJ+ZWV2JFHY3YkrPQX8lNJ0aTnfgQ+UXlL5zY1kRcynpERjojJ6SsymYMxE7kauD1mLhs0lu1UakSJXAw0plCtJ4Db3Hj+jCzX2P1d+w3AFuA08KxULwSNT6v/JmAx8EAa39KafmS2xr5ZdfP+f0d28x+3A1cA70VisOY8RKJhdZp6KSKvqj5OIX8foMt5YrHr5f0Tm1qUiEWw77v2qTp8ZnLoLBwH+jpndlSTK0dkpeqTgYExatQeGCQlHAJ8DZyRXKcmMl62GdDgFMnQUyF7B9WN4CKXVJUiUi9JDWbzF3C/G/vlGCF5joSwmGc3MJZiUIoISrosppoD/Az8AVzuFtUEZDNwEhiTZyITpOcBpkgLIiH4i0BH59hWSo2SEPFYq/beMYt7Y5bJD3f2aoO/49oe1sTCGRkKHHEv7ya/cXdCIgsU+v+kth15w/eArlIG89BFIAmRcD+wPkV+nwgNzk57RbbatvkmVzcvfUtEcgdLcZIQMdwKLKSV8aFipIB5yuKCad0V8dY9VZ+Y4YwUis7yE3Ydg3bDnFHAVdoBf+syMmLXI+SV25RIvwqGKBUl0h54SRpvHvvjGHk0hdolD3/A5RNVRWS+6rt0VixK/cb176s7qRPKF1rUZ2C1Edmq0CEc7o/UHlStUfVJqo9VfUq1EXledbumeVNh9n7Xv78CuUOKjfap/9AYIsFz17cFkU5KbM7o//vlZzyanFOz3Zvl2vbI3D5X+1dF3rYnIeLjKWRKRup8qFNUEEyQSM7+L7Ama9qa1Y/Y6n8PjE5x6RBXGkVge4zSVQRLCvo2ElLXcBHRJhimjMwm8xTwmrsxL3cBsV59V7TVTkSxzkntGP39kNqmR7K5aA5jfe+hSrCuBJEWXQb4XP71C5HIUiVZARNdPl11RJo1oS4xREphkrvmqQo85rz6BnfrV+4j6G5JeJbP060Ci3w/yCC5p/N+22gtXJPiRwKDykQANdRQA5XH/yPm6QVAuUITAAAAAElFTkSuQmCC" alt="external-application-pos-terminal-device-others-pike-picture-22">
                 </div>
             </a>
 
